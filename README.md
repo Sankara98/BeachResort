@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e89fdfc9-eeb9-49b3-b261-8ad10597ce9b/deploy-status)](https://app.netlify.com/sites/beachresortmanagement/deploys)
 
 ## Available Scripts
 
